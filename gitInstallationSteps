@@ -1,0 +1,7 @@
+1. Clone this repository with the following command:
+git clone https://github.com/DeepakTondle/TGMovies.git
+
+2. Checkout to master branch to get the code:
+git checkout master
+
+3. Now once you are checkout to master branch you can read the ReadMe document to run the project.
